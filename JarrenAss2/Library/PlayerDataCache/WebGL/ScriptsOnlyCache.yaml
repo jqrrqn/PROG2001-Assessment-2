@@ -5,6 +5,7 @@ ScriptsOnlyBuild:
     - NavScript
     Unity.ProBuilder.Editor.dll:
     - UnityEditor.ProBuilder.ProBuilderEditor
+    - UnityEditor.ProBuilder.UVEditor
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
@@ -1400,4 +1401,5 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Main Menu Scene.unity
   - Assets/Scenes/Jarren's Scene.unity
-  playerPath: /Users/test/Documents/Unity/JarrenAss2/Builds/Final
+  playerPath: /Users/test/Documents/Unity/PROG2001-Assessment-2/JarrenAss2/Final
+    2
